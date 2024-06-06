@@ -56,7 +56,7 @@ The dataset used in this project is the Mall Customer dataset. It contains infor
 3. Run the main script:
 
    ```
-   python main.py
+   python Customer_Segmentation.py
    ```
 
 ## Results
