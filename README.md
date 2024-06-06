@@ -10,7 +10,7 @@ This project aims to perform customer segmentation using the Mall Customer datas
 
 The dataset used in this project is the Mall Customer dataset. It contains information about customers such as their age, gender, annual income, and spending score.
 
-- **Dataset source**: [Mall Customer dataset](link-to-dataset)
+- **Dataset source**: Download from above 
 - **Features**:
   - `CustomerID`: Unique identifier for each customer
   - `Gender`: Gender of the customer
